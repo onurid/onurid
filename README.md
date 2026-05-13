@@ -1,7 +1,3 @@
-# ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-# github.com/onurid  →  onurid/onurid/README.md
-# ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
 ## Onur Yaşar
 
 **Software Architect · ICF Professional Coach · Antalya, Turkey**
@@ -49,9 +45,6 @@ A piece on social and individual boundaries of reality, forming the foundation o
 *"The greatest show in the universe begins the moment you discover your own mind."*
 
 
-# ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-# github.com/rymory  →  .github/profile/README.md
-# ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ## Rymory
 
@@ -95,9 +88,6 @@ account.rymory.org     ← account management
 → [rymory.org](https://rymory.org)
 
 
-# ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-# github.com/lemoras  →  .github/profile/README.md
-# ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ## Lemoras
 
