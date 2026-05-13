@@ -2,25 +2,28 @@
 
 **Software Architect · ICF Professional Coach · Antalya, Turkey**
 
-I have been building software systems since 2017. Identity infrastructure, distributed systems and open ecosystems are my core technical focus.
+I have been building software systems since 2017. Identity infrastructure, distributed systems and open ecosystems are my core technical focus. Over time, my analytical and systems-oriented mindset merged with a deep interest in human behavior — leading me, as of June 2024, to also work as an ICF-accredited professional coach.
 
-Since June 2024, I also work as an ICF-accredited professional coach — integrating a systems-thinking discipline with coaching competencies to support individuals in clarity, decision-making and sustainable potential.
+I support individuals in their search for clarity, conscious decision-making and discovering sustainable potential.
 
 ---
 
-### What I'm building
+### Open Source
 
 **[Rymory](https://rymory.org)** — Open identity infrastructure for the open web.
 Federation-ready identity layer · AGPL v3 · Built since 2017.
+→ [github.com/rymory](https://github.com/rymory)
 
 **[Lemoras](https://lemoras.com)** — Application ecosystem powered by Rymory identity.
 Notes · Drive · Planner · Passwords · One account, many services.
+→ [github.com/lemoras](https://github.com/lemoras)
 
 ---
 
 ### Other initiatives
 
-- **LuminaCore** — AI-powered real-time energy consumption analysis
+- **PhotoPure** — Photography & image processing project · [photopure.onuryasar.org](https://photopure.onuryasar.org)
+- **LuminaCore** — AI-powered real-time energy consumption analysis & forecasting
 - **Ignis Ritual** — Mindfulness ritual experience for modern life
 - **Awakening to Reality** — Book project at the intersection of AI and human consciousness *(upcoming)*
 
@@ -30,6 +33,7 @@ Notes · Drive · Planner · Passwords · One account, many services.
 
 Published in **uWords Magazine** (Issue 11, Oct 2024) — *"Awakening to Reality"*
 A piece on social and individual boundaries of reality, forming the foundation of my coaching approach.
+→ [Read article](https://uwordsdergi.com/?r3d=11-sayi)
 
 ---
 
@@ -42,88 +46,4 @@ A piece on social and individual boundaries of reality, forming the foundation o
 
 ---
 
-*"The greatest show in the universe begins the moment you discover your own mind."*
-
-
-
-## Rymory
-
-**Open identity infrastructure for the open web.**
-
-Rymory is a federation-ready identity layer — born from real production infrastructure built since 2017. One account, any application, any ecosystem.
-
-Designed for interoperable applications, distributed systems and modern digital trust.
-No single company controls the protocol. Governance is open by design.
-
----
-
-### Repositories
-
-| Repo | Description |
-|---|---|
-| [rymory-core](https://github.com/rymory/rymory-core) | Identity backend — authenticate, account, role, project (Go) |
-| [rymory-gateway](https://github.com/rymory/rymory-gateway) | Edge proxy — JWT, cookie, rate limiting, CORS (Go + Cloudflare) |
-| [goutils](https://github.com/rymory/goutils) | Shared Go utilities — JWT, DB, response helpers |
-
----
-
-### Architecture
-
-```
-id.rymory.org          ← single sign-on entry point
-      │
-      ├── notes.lemoras.com
-      ├── drive.lemoras.com
-      ├── [any third-party app]
-      │
-account.rymory.org     ← account management
-```
-
----
-
-**License:** AGPL v3 + Commercial Exception
-**Trademarks:** "Rymory" registered with TÜRKPATENT
-**Author:** [Onur Yaşar](https://onuryasar.org) · onxorg@proton.me
-
-→ [rymory.org](https://rymory.org)
-
-
-
-## Lemoras
-
-**Application ecosystem powered by [Rymory](https://rymory.org) identity infrastructure.**
-
-One identity. Many applications. Notes, Drive, Planner, Passwords — all connected through a single federated identity layer.
-
-Built since 2017 as a real production system. The identity backbone that powers Lemoras is now open source as [Rymory](https://rymory.org).
-
----
-
-### Repositories
-
-| Repo | Description |
-|---|---|
-| [lemoras-ui](https://github.com/lemoras/lemoras-ui) | Reference frontend — AngularJS SPA, multi-template, config-driven |
-| [lemoras-modules](https://github.com/lemoras/lemoras-modules) | Application service modules — notes, drive, planner (Go) |
-| [workspace](https://github.com/lemoras/workspace) | Deployment orchestration — private |
-
----
-
-### Ecosystem
-
-```
-notes.lemoras.com     ← note-taking
-drive.lemoras.com     ← file storage
-planner.lemoras.com   ← tasks & planning
-passwords.lemoras.com ← credential vault
-```
-
-All services authenticate via `id.rymory.org`.
-
----
-
-**License:** AGPL v3 + Commercial Exception
-**Trademarks:** "Lemoras" registered with TÜRKPATENT
-**Author:** [Onur Yaşar](https://onuryasar.org) · onxorg@proton.me
-
-→ [lemoras.com](https://lemoras.com)
+*"The greatest show in the universe begins the moment you discover your own mind." — Sigmund Freud*
