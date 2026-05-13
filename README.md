@@ -22,7 +22,7 @@ Notes · Drive · Planner · Passwords · One account, many services.
 
 ### Other initiatives
 
-- **PhotoPure** — Photography & image processing project · [photopure.onuryasar.org](https://photopure.onuryasar.org)
+- **PhotoPure** — macOS Photography & image Duplicate finder project · Available on the App Store [photopure.onuryasar.org](https://photopure.onuryasar.org)
 - **LuminaCore** — AI-powered real-time energy consumption analysis & forecasting
 - **Ignis Ritual** — Mindfulness ritual experience for modern life
 - **Awakening to Reality** — Book project at the intersection of AI and human consciousness *(upcoming)*
